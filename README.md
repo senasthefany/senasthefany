@@ -5,11 +5,12 @@
   <a href='https://www.instagram.com/sthefanyssena' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' target='_blank'></a>
   <a href="mailto:senasthefany@gmail.com" target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
   <a href="https://mobile.twitter.com/sthessena" target='_blank'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' target='_blank'></a>
+  <a href='https://orcid.org/0000-0002-0230-8127' target='_blank'><img width='3%' src='https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg' target='_blank'></a>
 </div><br>
 
 
 <div>
-  <img width='43.3%' src='https://github-readme-stats.vercel.app/api?username=senasthefany&show_icons=true&theme=dracula'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=senasthefany&show_icons=true&theme=dracula'/>
 </div></br>
 
 <!-- <div style='display: inline_block'>
