@@ -4,7 +4,7 @@ I'm a PhD student in Physical Chemistry at UFSCar (Federal University of São Ca
 
 ##
 <div style='display: inline_block'>
-  <a href='https://www.linkedin.com/in/sthefany-sena-493361ab/' target='_blank'><img width='3%' alt='Linkedin' src='https://cdn-icons-png.flaticon.com/512/179/179330.png' target='_blank'></a>
+  <a href='https://www.linkedin.com/in/sthefany-sena/' target='_blank'><img width='3%' alt='Linkedin' src='https://cdn-icons-png.flaticon.com/512/179/179330.png' target='_blank'></a>
   <a href='https://www.instagram.com/sthefanyssena' target='_blank'><img width='3%' alt='Instagram' src='https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1655411289~hmac=79efc33fb0b7a160ed2dfb99122a203e' target='_blank'></a>
   <a href="mailto:senasthefany@gmail.com" target='_blank'><img width='3%' alt='Gmail' src='https://cdn-icons-png.flaticon.com/512/552/552486.png' target='_blank'></a>
   <a href="https://mobile.twitter.com/sthessena" target='_blank'><img width='3%' alt='Twitter' src='https://cdn-icons-png.flaticon.com/512/145/145812.png' target='_blank'></a>
